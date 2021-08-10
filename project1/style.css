@@ -1,0 +1,16 @@
+h1{
+  color: pink;
+  text-align: center;
+  font-size: 45px;
+  border-radius: 30px;
+  border: 4px solid #fff8e1;
+  background-color: #fff8e1;
+}
+a {
+  text-decoration: none;
+  color:pink;
+}
+ul{
+  font-size:30px;
+  color: pink;
+}
